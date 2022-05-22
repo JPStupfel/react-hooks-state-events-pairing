@@ -10,3 +10,26 @@ body {
 .App {
   text-align: center;
 }
+.User {
+  font-weight: bold;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.comment-header {
+  font-weight: 900;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+.comment-data {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.video {
+  display: -ms-inline-flexbox;
+}
